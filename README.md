@@ -9,7 +9,7 @@ this tool aims to generate several or a single dimension xml file for a scaling
 While placing it in the corresponding folder (values-sw<N>dp) for your Android projects.
 
 #for use in your projects read files -> HOW TO USE DSA <-
-=====================================================================================
+=========================================================================
 
 With **Dimensions Scalable Android**, you can:
 
@@ -42,10 +42,10 @@ example for a: (values-sw480dp) -> (layout-sw480dp)
 If you like this tool and want to contribute with the developer do not hesitate to forker it or share it to other dev .
 Thank you. 
 
-------------------------------------- ANECDOTE ---------------------------------------------
-I developed this mini tools because I was tired of manually remodifying every time my existing xml file  
+------------------------------------- ANECDOTE -------------------------------------
+ I developed this mini tools because I was tired of manually remodifying every time my existing xml file  
 to adapt my design as precisely as possible for different screen sizes of devices.
 So I don’t tell you about it when I had to start from scratch knowing that the values range from 0 to 1000 :(
----------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
 
 
