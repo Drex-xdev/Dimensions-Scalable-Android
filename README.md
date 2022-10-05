@@ -1,17 +1,16 @@
 
-===== Dimensions Scalable Android (DSA) for the Android Design guidelines. ======
-By CodingZip(Drex) 
+#Dimensions Scalable Android (DSA) for the Android Design guidelines. By CodingZip(Drex) 
 
 version: 1.0
 
-_______the executable jar file or .exe is in the folder -> Executable Jar or exe <-______
+*the executable jar file or .exe is in the folder -> Executable Jar or exe <-*
 DSA is an xml file generator that provides scalable size units for different screen sizes.
 
 this tool aims to generate several or a single dimension xml file for a scaling
 While placing it in the corresponding folder (values-sw<N>dp) for your Android projects.
 
 #for use in your projects read files -> HOW TO USE DSA <-
-=========================================================================
+===========================================================
 
 With **Dimensions Scalable Android**, you can:
 
