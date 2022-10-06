@@ -36,11 +36,10 @@ read files -> HOW TO USE DSA <- for most detail.
 # ATTENTION: 
                                 
 In most cases, you should always design a different layout for each folder (values-sw<N>dp) created.
+example for a: (values-sw480dp) -> (layout-sw480dp)
 
 please be assured that your xml file has duplicated only contains values in: dp or sp or px
 so as not to have an error in the copy.
-
-example for a: (values-sw480dp) -> (layout-sw480dp)
   
  # CAPTURE: 
   
